@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mpi9b1j2w-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/mpi9b1j2w-go
